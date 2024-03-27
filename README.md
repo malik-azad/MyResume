@@ -1,2 +1,3 @@
 # MyResume
-HTML resume assignment
+My resume assignment
+[Live Link](https://malik-azad.github.io/MyResume/)
